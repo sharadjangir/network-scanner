@@ -90,9 +90,7 @@ network-scanner/
 │
 ├── network_scanner.py
 ├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
+└── requirements.txt
 ```
 
 ## Sample Features Implemented
